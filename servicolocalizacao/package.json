@@ -1,0 +1,16 @@
+{
+  "name": "servicolocalizacao",
+  "version": "1.0.0",
+  "description": "servico de geolocalizao",
+  "license": "ISC",
+  "author": "ritagomes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
