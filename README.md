@@ -1,4 +1,5 @@
-# NuPonto
+# PatoBus
+
 ## Sistema de rastreamento de ônibus
 
 Este projeto foi desenvolvido pelos alunos Marcos Ribeiro e Maria Rita Gomes para compor a nota da disciplina de Seminário de Projeto Integrador II do curso superior em Tecnologia de Sistemas para Internet.
